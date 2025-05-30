@@ -1,5 +1,5 @@
 # 📘 Personal Expense Tracker – MERN Stack
-A full-stack web application to help you track your daily expenses easily. Built with the MERN stack (MongoDB, Express, React, Node.js), styled using Bootstrap 5, and developed with Vite for React.
+A full-stack web application that helps to track daily expenses easily. Built with the MERN stack (MongoDB, Express, React, Node.js), styled using Bootstrap 5, and developed with Vite for React.
 
 ## ✨ Features
 - Add, view, edit, and delete expenses
@@ -25,7 +25,7 @@ cd server
 npm install
 node server.js
 ```
-> Make sure your MongoDB server is running locally (default URI: `mongodb://127.0.0.1:27017/expense-tracker`).
+> Make sure MongoDB server is running locally (default URI: `mongodb://127.0.0.1:27017/expense-tracker`).
 ### 3. Setup and run the frontend
 Open a new terminal window/tab:
 ```bash
